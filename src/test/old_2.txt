@@ -1,0 +1,579 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.poi.openxml4j.util.ZipSecureFile$1 (file:/Users/shixin.qin/Documents/javatool/repository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar) to field java.io.FilterInputStream.in
+WARNING: Please consider reporting this to the maintainers of org.apache.poi.openxml4j.util.ZipSecureFile$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+cancel PNR:1166498593 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166752515 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1159410996 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167133654 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166958180 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1165030959 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1164848326 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166097090 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166988447 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1162245452 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1165410606 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166533048 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167106916 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1161100726 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167168416 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167203760 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167374514 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167210478 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1161987906 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167260728 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166046864 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1157095431 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167377838 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166738978 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166136357 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166542272 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167211474 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1163477897 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1162503402 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1163961234 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167366192 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1165178443 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167136140 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166669761 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167366445 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008243" resNumber="1167366445" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167033133 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008244" resNumber="1167033133" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1166021776 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008245" resNumber="1166021776" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1166106555 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008246" resNumber="1166106555" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167045783 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166669558 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1165266715 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008247" resNumber="1165266715" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167212603 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167366941 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008248" resNumber="1167366941" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1165594981 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166669939 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167365094 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1163189199 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166862790 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1164118090 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1165100612 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008249" resNumber="1165100612" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1165215902 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008250" resNumber="1165215902" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1166744189 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008251" resNumber="1166744189" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167091235 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166591259 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166592226 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1162433512 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1162207347 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166825318 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008252" resNumber="1166825318" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1166825648 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008253" resNumber="1166825648" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1165147074 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167381022 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008254" resNumber="1167381022" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1166533294 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167373806 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008255" resNumber="1167373806" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1159056693 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1162226713 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008256" resNumber="1162226713" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1163785208 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166826395 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166001327 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167157961 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166098195 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1165703280 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008257" resNumber="1165703280" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1164883319 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008258" resNumber="1164883319" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167186586 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167356376 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1160821933 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008259" resNumber="1160821933" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167268077 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1162996669 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1165541876 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008260" resNumber="1165541876" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1163068509 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167382512 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008261" resNumber="1167382512" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1165585692 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1159289488 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008262" resNumber="1159289488" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167361060 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008263" resNumber="1167361060" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1165315523 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1166446229 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167029863 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008264" resNumber="1167029863" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1163787540 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167346558 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="49008265" resNumber="1167346558" type="P" xrsPartnerCallerID="HUIZUCHE PP" />
+  </serviceResponse>
+</message>
+
+

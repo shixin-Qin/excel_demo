@@ -1,0 +1,1879 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.poi.openxml4j.util.ZipSecureFile$1 (file:/Users/shixin.qin/Documents/javatool/repository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar) to field java.io.FilterInputStream.in
+WARNING: Please consider reporting this to the maintainers of org.apache.poi.openxml4j.util.ZipSecureFile$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+cancel PNR:1167391395 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167393463 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167403234 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167404565 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167410375 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167411369 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988096" resNumber="1167411369" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167414854 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167415751 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167418176 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988097" resNumber="1167418176" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167421128 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988098" resNumber="1167421128" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167421170 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988099" resNumber="1167421170" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167423570 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988100" resNumber="1167423570" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167423624 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988101" resNumber="1167423624" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167423787 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988102" resNumber="1167423787" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167424213 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988103" resNumber="1167424213" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167431434 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988104" resNumber="1167431434" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167431959 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167432697 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167435647 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988105" resNumber="1167435647" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167445859 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988106" resNumber="1167445859" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167447780 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167452320 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988108" resNumber="1167452320" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167454093 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167455102 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988109" resNumber="1167455102" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167461479 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988110" resNumber="1167461479" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167465968 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988111" resNumber="1167465968" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167467187 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988112" resNumber="1167467187" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167467479 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988113" resNumber="1167467479" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167469335 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167469931 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988114" resNumber="1167469931" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167477178 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988118" resNumber="1167477178" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167490679 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988119" resNumber="1167490679" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167502183 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988120" resNumber="1167502183" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167503286 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988121" resNumber="1167503286" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167505058 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988122" resNumber="1167505058" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167507662 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988123" resNumber="1167507662" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167507934 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988124" resNumber="1167507934" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167514923 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167515287 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167521593 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167522275 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988125" resNumber="1167522275" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167522335 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988126" resNumber="1167522335" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167522367 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167523219 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988127" resNumber="1167523219" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167523671 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988128" resNumber="1167523671" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167524483 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167527512 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167538806 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167542532 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988129" resNumber="1167542532" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167544553 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988130" resNumber="1167544553" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167545186 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988131" resNumber="1167545186" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167558555 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167560745 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988135" resNumber="1167560745" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167570592 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988136" resNumber="1167570592" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167572259 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988137" resNumber="1167572259" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167577705 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988138" resNumber="1167577705" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167587583 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988139" resNumber="1167587583" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167601922 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167602631 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167607894 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167611185 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167611273 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988141" resNumber="1167611273" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167611711 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988142" resNumber="1167611711" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167612417 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988143" resNumber="1167612417" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167614107 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988144" resNumber="1167614107" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167619441 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988145" resNumber="1167619441" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167621718 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988146" resNumber="1167621718" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167621879 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988147" resNumber="1167621879" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167622370 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988148" resNumber="1167622370" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167626282 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167626836 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988152" resNumber="1167626836" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167628454 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167631731 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988156" resNumber="1167631731" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167634921 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988157" resNumber="1167634921" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167636902 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167637724 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988158" resNumber="1167637724" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="60.0" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167637893 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988159" resNumber="1167637893" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="60.0" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167639345 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988160" resNumber="1167639345" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167639406 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988161" resNumber="1167639406" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167640202 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167640737 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988162" resNumber="1167640737" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167641464 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988163" resNumber="1167641464" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167641609 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167642799 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167643467 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167643584 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988164" resNumber="1167643584" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167646593 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988165" resNumber="1167646593" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167648328 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988166" resNumber="1167648328" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167665988 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988167" resNumber="1167665988" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167670963 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988168" resNumber="1167670963" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167678718 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167679172 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988169" resNumber="1167679172" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167683020 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988170" resNumber="1167683020" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167683200 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167688045 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988171" resNumber="1167688045" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167688196 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988172" resNumber="1167688196" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167688205 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988173" resNumber="1167688205" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167688376 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988174" resNumber="1167688376" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167688412 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988175" resNumber="1167688412" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167688647 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988176" resNumber="1167688647" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167689972 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988177" resNumber="1167689972" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167692359 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988178" resNumber="1167692359" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167693936 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167695200 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988179" resNumber="1167695200" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167699413 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988180" resNumber="1167699413" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167703999 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988181" resNumber="1167703999" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167707988 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988185" resNumber="1167707988" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167713176 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988189" resNumber="1167713176" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167717163 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988190" resNumber="1167717163" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167719187 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988191" resNumber="1167719187" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167732661 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988192" resNumber="1167732661" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167733442 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988196" resNumber="1167733442" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="47.83" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167733478 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167733518 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167733544 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988197" resNumber="1167733544" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="47.83" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167733603 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988198" resNumber="1167733603" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167738414 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167762965 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988199" resNumber="1167762965" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="60.0" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167764690 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167767265 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988200" resNumber="1167767265" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167770511 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988201" resNumber="1167770511" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167775673 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988202" resNumber="1167775673" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167776881 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988203" resNumber="1167776881" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167777325 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988205" resNumber="1167777325" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167777331 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988206" resNumber="1167777331" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167777374 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988207" resNumber="1167777374" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167777485 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988208" resNumber="1167777485" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167781798 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988209" resNumber="1167781798" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="32.63" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167783651 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167786981 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988210" resNumber="1167786981" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167797655 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988211" resNumber="1167797655" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="47.68" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167805236 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167806418 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167810009 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988212" resNumber="1167810009" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167810088 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988213" resNumber="1167810088" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167810406 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988214" resNumber="1167810406" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167811690 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988215" resNumber="1167811690" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167811842 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988219" resNumber="1167811842" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="60.0" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167811934 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988220" resNumber="1167811934" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167814334 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988221" resNumber="1167814334" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167816500 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167816575 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167816617 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988223" resNumber="1167816617" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167816650 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167818160 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988224" resNumber="1167818160" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167828504 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988225" resNumber="1167828504" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167834146 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988226" resNumber="1167834146" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167839688 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167848347 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988227" resNumber="1167848347" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167857997 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988228" resNumber="1167857997" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167858893 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988229" resNumber="1167858893" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167858937 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988230" resNumber="1167858937" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167859207 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988231" resNumber="1167859207" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167861775 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988232" resNumber="1167861775" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167862179 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988234" resNumber="1167862179" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167863229 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988235" resNumber="1167863229" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167865231 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988236" resNumber="1167865231" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167866702 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988237" resNumber="1167866702" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167866855 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988238" resNumber="1167866855" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167871511 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988239" resNumber="1167871511" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167872983 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988241" resNumber="1167872983" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167873113 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988242" resNumber="1167873113" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167873332 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988243" resNumber="1167873332" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167873399 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988244" resNumber="1167873399" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167873431 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988248" resNumber="1167873431" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167873531 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988249" resNumber="1167873531" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167874814 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988250" resNumber="1167874814" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167874928 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988251" resNumber="1167874928" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167874998 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="reservation.notfound" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167876686 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988252" resNumber="1167876686" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167877006 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988253" resNumber="1167877006" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167877059 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988254" resNumber="1167877059" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167877868 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988255" resNumber="1167877868" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167880010 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988256" resNumber="1167880010" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167880423 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988257" resNumber="1167880423" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167880509 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988258" resNumber="1167880509" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167882338 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.alreadycancelled" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167882910 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988260" resNumber="1167882910" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167883497 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988261" resNumber="1167883497" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167884161 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988265" resNumber="1167884161" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167884490 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988266" resNumber="1167884490" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167884725 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988267" resNumber="1167884725" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167884936 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167885047 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167893390 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988268" resNumber="1167893390" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167894244 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988269" resNumber="1167894244" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167894509 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988270" resNumber="1167894509" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167895658 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167896125 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988271" resNumber="1167896125" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167905419 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988272" resNumber="1167905419" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167912115 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988273" resNumber="1167912115" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167920431 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988274" resNumber="1167920431" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167922441 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988275" resNumber="1167922441" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167933940 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988276" resNumber="1167933940" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167939839 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988277" resNumber="1167939839" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167940071 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988278" resNumber="1167940071" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167940710 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988279" resNumber="1167940710" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167941369 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988280" resNumber="1167941369" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167941409 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988281" resNumber="1167941409" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167942482 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988282" resNumber="1167942482" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167942954 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988286" resNumber="1167942954" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167944137 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988287" resNumber="1167944137" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167956937 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988288" resNumber="1167956937" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167957720 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988289" resNumber="1167957720" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167962967 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167968334 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167976238 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse errorCode="xrs.reservation.nochangeallowed" returnCode="KO" />
+</message>
+
+
+cancel PNR:1167983003 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988290" resNumber="1167983003" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167983127 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988291" resNumber="1167983127" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167985047 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988292" resNumber="1167985047" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167987648 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988293" resNumber="1167987648" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1167999393 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988294" resNumber="1167999393" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168001299 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988295" resNumber="1168001299" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168007416 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988296" resNumber="1168007416" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168012354 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988297" resNumber="1168012354" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168014937 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988298" resNumber="1168014937" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168022076 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988299" resNumber="1168022076" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168023797 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988300" resNumber="1168023797" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168035592 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988301" resNumber="1168035592" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168050816 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988302" resNumber="1168050816" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168054100 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988303" resNumber="1168054100" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168055832 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988304" resNumber="1168055832" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168056022 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988305" resNumber="1168056022" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168060252 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988306" resNumber="1168060252" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168060859 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988307" resNumber="1168060859" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="19.93" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168061112 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988308" resNumber="1168061112" type="P" xrsPartnerCallerID="Klook  PP">
+      <quote cancellationFeeAmount="60.0" cancellationFeeCurrency="EUR" isPrepaid="N" />
+    </reservation>
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168063268 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988309" resNumber="1168063268" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168065143 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988310" resNumber="1168065143" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168067832 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988311" resNumber="1168067832" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168068838 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988312" resNumber="1168068838" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168069105 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988313" resNumber="1168069105" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168069347 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988314" resNumber="1168069347" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168069764 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988315" resNumber="1168069764" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168083566 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988316" resNumber="1168083566" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168099336 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988317" resNumber="1168099336" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168102095 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988318" resNumber="1168102095" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168103601 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988319" resNumber="1168103601" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168109770 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988320" resNumber="1168109770" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168111254 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988321" resNumber="1168111254" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168111482 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988322" resNumber="1168111482" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168111519 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988323" resNumber="1168111519" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168111705 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988324" resNumber="1168111705" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168111793 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988325" resNumber="1168111793" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168119619 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988326" resNumber="1168119619" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
+cancel PNR:1168121966 res:<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <serviceResponse returnCode="OK">
+    <reservation resCancelNumber="48988328" resNumber="1168121966" type="P" xrsPartnerCallerID="Klook  PP" />
+  </serviceResponse>
+</message>
+
+
